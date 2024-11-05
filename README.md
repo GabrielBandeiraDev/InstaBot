@@ -27,10 +27,14 @@ Antes de rodar o projeto, você precisa ter o seguinte instalado:
 - **Django 3.x ou superior**
 - **Instagrapi**: Biblioteca para automação do Instagram.
 
-## Como Configurar
 
-### 1. Clone o Repositório
+### . Clone o Repositório
 
 ```bash
 git clone https://github.com/seuusuario/instabot.git
-cd instabot
+
+
+![Logo do Instabot](imagens/logo.png)
+
+
+
