@@ -1,5 +1,7 @@
 # Instabot - Automação de Postagens no Instagram
 
+![Logo do Instabot](imagens/logo.png)
+
 ## Descrição
 
 O **Instabot** é uma aplicação desenvolvida em Python que permite fazer postagens automáticas no Instagram de forma remota, sem a necessidade de abrir o site ou o aplicativo. Ele utiliza o framework **Django** para o front-end e back-end, e a biblioteca **Instagrapi** para interagir com a API do Instagram.
@@ -34,7 +36,6 @@ Antes de rodar o projeto, você precisa ter o seguinte instalado:
 git clone https://github.com/seuusuario/instabot.git
 
 
-![Logo do Instabot](imagens/logo.png)
 
 
 
