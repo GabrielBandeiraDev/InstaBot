@@ -1,6 +1,6 @@
 # Instabot - Automação de Postagens no Instagram
 
-![Logo do Instabot](imagens/logo.png)
+![Logo do Instabot](images/logo.png)
 
 ## Descrição
 
